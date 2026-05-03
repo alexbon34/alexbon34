@@ -54,7 +54,7 @@ Sitio web empresarial desarrollado para un cliente real en Sarchí de Alajuela, 
 ##  Contacto
 
 📧 [Correo personal] alexanderbon34@gmail.com  
-📧 [Correo institucional] alexanderbon34@estudiantec.cr 
+📧 [Correo institucional] alexanderbon34@estudiantec.cr  
 💼 [LinkedIn](www.linkedin.com/in/alexander-bonilla-chaves) 
 
 ---
