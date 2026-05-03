@@ -4,7 +4,7 @@ Estudiante de último año de **Administración de Tecnologías de Información*
 
 ---
 
-##  Sobre mí
+##  Información General
 
 -  Costa Rica
 -  Administración de Tecnologías de Información — TEC (último año)
@@ -26,6 +26,7 @@ Estudiante de último año de **Administración de Tecnologías de Información*
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 
 **Herramientas y plataformas**
 
@@ -33,13 +34,15 @@ Estudiante de último año de **Administración de Tecnologías de Información*
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) 
 
 ---
 
 ##  Proyectos destacados
 
 ###  Ebanistería Venegas — Sitio Web Oficial
-Sitio web institucional desarrollado para un cliente real en Sarchí de Alajuela, Costa Rica. Incluye galería de productos con filtros por 7 categorías, formulario de cotización, mapa de ubicación y despliegue con CI/CD automático.
+Sitio web empresarial desarrollado para un cliente real en Sarchí de Alajuela, Costa Rica. Incluye galería de productos con filtros por 7 categorías, formulario de cotización, mapa de ubicación y despliegue con CI/CD automático.
 
 **Tecnologías:** HTML5 · CSS3 · JavaScript · Formspree · Google Maps · Git · Vercel
 
@@ -50,8 +53,9 @@ Sitio web institucional desarrollado para un cliente real en Sarchí de Alajuela
 
 ##  Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexander-bonilla-chaves)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderbon34@gmail.com)
+📧 [Correo personal] alexanderbon34@gmail.com  
+📧 [Correo institucional] alexanderbon34@estudiantec.cr 
+💼 [LinkedIn](www.linkedin.com/in/alexander-bonilla-chaves) 
 
 ---
 
