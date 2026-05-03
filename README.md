@@ -1,20 +1,20 @@
-# Hola, soy Alexander Bonilla 👋
+# Alexander Bonilla Chaves
 
 Estudiante de último año de **Administración de Tecnologías de Información** en el **Instituto Tecnológico de Costa Rica (TEC)**. Me apasiona la gestión de proyectos TI y el desarrollo de soluciones tecnológicas que generan impacto real en los negocios.
 
 ---
 
-## 🎓 Sobre mí
+##  Sobre mí
 
-- 📍 Costa Rica
-- 🎓 Administración de Tecnologías de Información — TEC (último año)
-- 💼 Interesado en **Gestión de Proyectos TI**
-- 🌱 Actualmente ampliando mis conocimientos en desarrollo web y arquitectura de software
-- 🤝 Abierto a oportunidades de práctica profesional y proyectos freelance
+-  Costa Rica
+-  Administración de Tecnologías de Información — TEC (último año)
+-  Interesado en **Gestión de Proyectos TI**
+-  Actualmente ampliando mis conocimientos en desarrollo web, arquitectura de software y aqruitectura empresarial
+-  Abierto a oportunidades de práctica profesional y proyectos freelance
 
 ---
 
-## 🛠️ Habilidades técnicas
+##  Habilidades técnicas
 
 **Lenguajes y tecnologías**
 
@@ -36,9 +36,9 @@ Estudiante de último año de **Administración de Tecnologías de Información*
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
-### 🪵 Ebanistería Venegas — Sitio Web Oficial
+###  Ebanistería Venegas — Sitio Web Oficial
 Sitio web institucional desarrollado para un cliente real en Sarchí de Alajuela, Costa Rica. Incluye galería de productos con filtros por 7 categorías, formulario de cotización, mapa de ubicación y despliegue con CI/CD automático.
 
 **Tecnologías:** HTML5 · CSS3 · JavaScript · Formspree · Google Maps · Git · Vercel
@@ -47,7 +47,7 @@ Sitio web institucional desarrollado para un cliente real en Sarchí de Alajuela
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexbon34&show_icons=true&theme=dark&hide_border=true&locale=es" alt="GitHub Stats" />
@@ -56,7 +56,7 @@ Sitio web institucional desarrollado para un cliente real en Sarchí de Alajuela
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexbon34)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderbon34@gmail.com)
