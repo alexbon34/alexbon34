@@ -47,18 +47,10 @@ Sitio web institucional desarrollado para un cliente real en Sarchí de Alajuela
 
 ---
 
-##  Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbon34&show_icons=true&theme=dark&hide_border=true&locale=es" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbon34&layout=compact&theme=dark&hide_border=true&locale=es" alt="Top Languages" />
-</p>
-
----
 
 ##  Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexander-bonilla-87604929a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexander-bonilla-chaves)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderbon34@gmail.com)
 
 ---
